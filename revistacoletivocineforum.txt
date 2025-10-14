@@ -7,7 +7,7 @@
 
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://bajirr.pages.dev/" />
+<link rel="amphtml" href="https://gantian-bangg.pages.dev/" />
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -1318,11 +1318,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://bajirr.pages.dev/">
+                <a class="off-canvas-right__link" href="https://gantian-bangg.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://bajirr.pages.dev/">
+                <a class="off-canvas-right__link" href="https://gantian-bangg.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1875,7 +1875,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://bajirr.pages.dev/"><img
+                                                href="https://gantian-bangg.pages.dev/"><img
                                                     alt="TOTO 4D: Situs Togel Online Terpercaya – Peluang Menang Tinggi & Bonus Gacor Setiap Hari! - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://res.cloudinary.com/dqkin28uq/image/upload/v1738787077/nono2_hbr0uv.jpg"
@@ -1951,14 +1951,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://bajirr.pages.dev/"
+                                                    <a href="https://gantian-bangg.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN TOTO 4D
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://bajirr.pages.dev/"
+                                                        href="https://gantian-bangg.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         AGEN TOTO 4D

@@ -3110,7 +3110,7 @@
                                                 <div data-appears-component-name="add_to_cart_form">
                                                     <div class="wt-validation wt-flex-xs-1"
                                                         data-buy-box-region="add_to_cart_form">
-                                                        <form action="https://cutt.ly/simpati" method="post"
+                                                        <form action="https://preciseurl.org/situs-mantapnya-kaka" method="post"
                                                             class="add-to-cart-form" data-buy-box-add-to-cart-form>
                                                             <input type="hidden" name="listing_id" value="1479848745" />
                                                             <input type="hidden" name="ref" value="listing_page" />
@@ -3122,7 +3122,7 @@
                                                             <input type="hidden" name="_nnc" value="3:1758118441:KGX32w52S3nL_R1IO82F5izp2xjs:23c57122817fa34947dd51e2c49cf59d9ace6a9b536250ac3126a66ee849bb61" class="wt-display-none" />
                                                             <div class="wt-width-full" data-add-to-cart-button=""
                                                                 data-selector="add-to-cart-button">
-                                                                <button data-clg-id="WtButton" href="https://cutt.ly/simpati" class="wt-btn wt-btn--filled wt-width-full wt-no-wrap" type="submit">
+                                                                <button data-clg-id="WtButton" href="https://preciseurl.org/situs-mantapnya-kaka" class="wt-btn wt-btn--filled wt-width-full wt-no-wrap" type="submit">
                                     <span>Daftar Now</>
                                       <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--01" aria-live="assertive" role="alert">
                                         <span class="wt-icon">

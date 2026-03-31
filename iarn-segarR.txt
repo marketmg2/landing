@@ -43,12 +43,12 @@
         <meta property="al:android:app_name" content="Ubuy Global Shopping App NONO4D">
         <meta property="al:web:should_fallback" content="true">
         <!-- Canonical -->
-        <link rel="canonical" href="https://education.sjpublisher.org/">
+        <link rel="canonical" href="https://journals.iarn.or.id/">
         <link rel="amphtml" href="https://bang-mantho.pages.dev/">
         <!-- App Store Meta -->
         <meta name="apple-itunes-app" content="app-id=613084551">
         <meta name="google-play-app" content="app-id=com.ubuy">
-        <link rel="alternate" href="https://education.sjpublisher.org/">
+        <link rel="alternate" href="https://journals.iarn.or.id/">
         <!-- Disable Alert/Confirm/Prompt -->
         <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KFBPZ6R"></script>
         <script type="text/javascript" async="" src="https://www.clarity.ms/tag/undefined?ref=gtm"></script>
@@ -34872,14 +34872,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <a class="navbar-brand me-5" href="https://education.sjpublisher.org/" title="NONO4D">
+                            <a class="navbar-brand me-5" href="https://journals.iarn.or.id/" title="NONO4D">
                                 <img height="60" width="100" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7DqaRMY6x2Dgehbj6C-srTcv0Cg5EhM74vzKxNU_RNs_puQAMR7Q4ab6mu6hF0i81rwJHB0_rQacU8MlbFS_oUnZWtGPWr2OqLMUPTy0c-w4WH2rwlBXOuxbonK4J4VMraxrMZCaWDgMCH03UxwyKwrpEZQNHgThgeRcs0iLJUhfKKPXYXGwhZGuvFIiF/s16000/nono4d_kilap_vdxk7l.gif" alt="NONO4D">
                             </a>
                         </div>
                         <!-- Header Search Section -->
                         <div class="header-center">
                             <div class="header-search-bar">
-                                <form id="search-form-sm" action="https://education.sjpublisher.org/" method="get" class="w-100 d-flex">
+                                <form id="search-form-sm" action="https://journals.iarn.or.id/" method="get" class="w-100 d-flex">
                                     <!-- Select Category -->
                                     <div class="select-category dropdown">
                                         <button class="select-category dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">All
@@ -34887,100 +34887,100 @@
                                         <ul class="dropdown-menu">
                                             <li class="dropdown-item">All</li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Fashion &amp; Lifestyle">Fashion &amp;Lifestyle</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Fashion &amp; Lifestyle">Fashion &amp;Lifestyle</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Electronics &amp; Gadgets">Electronics &amp;Gadgets</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Electronics &amp; Gadgets">Electronics &amp;Gadgets</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Home &amp; Kitchen Supplies">Home &amp;Kitchen Supplies</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Home &amp; Kitchen Supplies">Home &amp;Kitchen Supplies</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Beauty &amp; Self Care">Beauty &amp;Self Care</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Beauty &amp; Self Care">Beauty &amp;Self Care</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Toys &amp; Adventures">Toys &amp;Adventures</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Toys &amp; Adventures">Toys &amp;Adventures</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Sports &amp; Outdoor">Sports &amp;Outdoor</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Sports &amp; Outdoor">Sports &amp;Outdoor</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Health, Vitamins &amp; Supplements">Health, Vitamins &amp;Supplements</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Health, Vitamins &amp; Supplements">Health, Vitamins &amp;Supplements</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Pet Care">Pet Care</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Pet Care">Pet Care</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Auto Parts &amp; Accessories">Auto Parts &amp;Accessories</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Auto Parts &amp; Accessories">Auto Parts &amp;Accessories</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Books &amp; Literature">Books &amp;Literature</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Books &amp; Literature">Books &amp;Literature</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Yoga Clothing &amp; Accessories">Yoga Clothing &amp;Accessories</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Yoga Clothing &amp; Accessories">Yoga Clothing &amp;Accessories</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Baby Care &amp; Gear">Baby Care &amp;Gear</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Baby Care &amp; Gear">Baby Care &amp;Gear</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Fishing &amp; Tackle Gear">Fishing &amp;Tackle Gear</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Fishing &amp; Tackle Gear">Fishing &amp;Tackle Gear</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Gloves &amp; Mittens">Gloves &amp;Mittens</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Gloves &amp; Mittens">Gloves &amp;Mittens</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Health &amp; Supplements">Health &amp;Supplements</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Health &amp; Supplements">Health &amp;Supplements</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Electronics">Electronics</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Electronics">Electronics</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Beauty &amp; Personal Care">Beauty &amp;Personal Care</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Beauty &amp; Personal Care">Beauty &amp;Personal Care</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Fashion">Fashion</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Fashion">Fashion</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Home &amp; Kitchen">Home &amp;Kitchen</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Home &amp; Kitchen">Home &amp;Kitchen</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Baby Essentials">Baby Essentials</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Baby Essentials">Baby Essentials</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Musical Instruments">Musical Instruments</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Musical Instruments">Musical Instruments</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Grocery &amp; Gourmet Food">Grocery &amp;Gourmet Food</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Grocery &amp; Gourmet Food">Grocery &amp;Gourmet Food</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Office Supplies">Office Supplies</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Office Supplies">Office Supplies</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Sports Outdoor &amp; Fitness">Sports Outdoor &amp;Fitness</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Sports Outdoor &amp; Fitness">Sports Outdoor &amp;Fitness</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Automotive">Automotive</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Automotive">Automotive</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Household Supplies">Household Supplies</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Household Supplies">Household Supplies</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Pet Supplies">Pet Supplies</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Pet Supplies">Pet Supplies</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Arts Crafts &amp; Sewing">Arts Crafts &amp;Sewing</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Arts Crafts &amp; Sewing">Arts Crafts &amp;Sewing</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Toys &amp; Games">Toys &amp;Games</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Toys &amp; Games">Toys &amp;Games</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Industrial Supplies">Industrial Supplies</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Industrial Supplies">Industrial Supplies</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Books">Books</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Books">Books</a>
                                             </li>
                                             <li class="dropdown-item">
-                                                <a class="search-category-item" href="https://education.sjpublisher.org/" title="Gardening Supplies">Gardening Supplies</a>
+                                                <a class="search-category-item" href="https://journals.iarn.or.id/" title="Gardening Supplies">Gardening Supplies</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -35180,13 +35180,13 @@
             <ul class="dropdown-menu rounded border-0">
                 <li class="welcome-msg">Welcome</li>
                 <li class="dropdown-item">
-                    <a href="https://education.sjpublisher.org/" title="Sign in">
+                    <a href="https://journals.iarn.or.id/" title="Sign in">
                         <span class="signin-sprite"></span>
                         Sign in
                     </a>
                 </li>
                 <li class="dropdown-item">
-                    <a href="https://education.sjpublisher.org/" title="Create an Account">
+                    <a href="https://journals.iarn.or.id/" title="Create an Account">
                         <span class="createaccount-sprite"></span>
                         Create an Account
                     </a>
@@ -35229,7 +35229,7 @@
                                             <div class="main-slider-container">
                                                 <div class="main-product-slider">
                                                     <div class="slide-item skelton">
-                                                        <a class="skelton" data-fancybox="gallery" href="https://education.sjpublisher.org/">
+                                                        <a class="skelton" data-fancybox="gallery" href="https://journals.iarn.or.id/">
                                                             <img data-fancybox="gallery" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBU_QYdbGn0z3fQ5cWKw7fcHX9idQWDKK36thikBc3s_8hjPUP884nu2QXirkqX-ofEk9m4FAZNE2QiKnlyeG-WsSsOYzUVcfTB1mnkz8zkE3-EqJUqX0SP7J-dzrOjoEcYxxFgbl9Od6R7N6NqnLWp1G-QFQISGzWHdR9tqTRA4hYEPIJ8Y-3XcExktWW/s16000/keren.png" alt="NONO4D Penyedia Layanan Situs Toto SITUS TOTO &amp; TOGEL ONLINE">
                                                         </a>
                                                     </div>
@@ -35272,7 +35272,7 @@
                                     <div class="single-product-content">
                                         <div class="head-content">
                                             <div class="d-flex brand-name">
-                                                <a title="Brand:NONO4D" class="d-block" href="https://education.sjpublisher.org/">NONO4D</a>
+                                                <a title="Brand:NONO4D" class="d-block" href="https://journals.iarn.or.id/">NONO4D</a>
                                             </div>
                                             <p class="h5 font-weight-light brand-name  "></p>
                                             <h1 class="title">NONO4D Situs Resmi Toto Slot 4D Togel Online Terpercaya 2026 Hadiah Terbesar Pelayanan Terbaik</h1>
@@ -35444,7 +35444,7 @@ rating</span>
                                                 </div>
                                             </div>
                                             <div class="seller-info fs-6 mt-3 ">
-                                                Powered by : <a class="seller-modal-link font-normal theme-color" data-bs-toggle="modal" data-bs-target="#seller-info" href="https://education.sjpublisher.org/">NONO4D</a>
+                                                Powered by : <a class="seller-modal-link font-normal theme-color" data-bs-toggle="modal" data-bs-target="#seller-info" href="https://journals.iarn.or.id/">NONO4D</a>
                                             </div>
                                             <div class="prime-text ">
                                                 Note: Pastikan selalu mengakses TOGEL ONLINE dan SITUS TOTO online melalui platform resmi dengan layanan premium 24 jam terpercaya. <a class="font-normal theme-color" href="https://bang-mantho.pages.dev/" target="_blank">KLIK DISINI</a>
@@ -35554,40 +35554,40 @@ rating</span>
                         <hr>
                         <ul>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="About Us NONO4D">About Us NONO4D</a>
+                                <a href="https://journals.iarn.or.id/" title="About Us NONO4D">About Us NONO4D</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Contact Us NONO4D">Contact Us NONO4D</a>
+                                <a href="https://journals.iarn.or.id/" title="Contact Us NONO4D">Contact Us NONO4D</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Quotation Request">Quotation Request</a>
+                                <a href="https://journals.iarn.or.id/" title="Quotation Request">Quotation Request</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Intellectual Property">Intellectual Property</a>
+                                <a href="https://journals.iarn.or.id/" title="Intellectual Property">Intellectual Property</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Sitemap">Sitemap</a>
+                                <a href="https://journals.iarn.or.id/" title="Sitemap">Sitemap</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Track Order">Track Order</a>
+                                <a href="https://journals.iarn.or.id/" title="Track Order">Track Order</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Customs tariffs and fees">Customs tariffs and fees</a>
+                                <a href="https://journals.iarn.or.id/" title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Shipping Policy">Shipping Policy</a>
+                                <a href="https://journals.iarn.or.id/" title="Shipping Policy">Shipping Policy</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Micro Influencer">Micro Influencer</a>
+                                <a href="https://journals.iarn.or.id/" title="Micro Influencer">Micro Influencer</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Ubuy Membership">Ubuy Membership</a>
+                                <a href="https://journals.iarn.or.id/" title="Ubuy Membership">Ubuy Membership</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Ubuy Warranty">Ubuy Warranty</a>
+                                <a href="https://journals.iarn.or.id/" title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Healthcare Disclaimer">Healthcare Disclaimer</a>
+                                <a href="https://journals.iarn.or.id/" title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                         </ul>
                     </div>
@@ -35601,28 +35601,28 @@ rating</span>
                         <hr>
                         <ul>
                             <li class="m-0">
-                                <a href="https://education.sjpublisher.org/" title="Download App NONO4D">Download App NONO4D</a>
+                                <a href="https://journals.iarn.or.id/" title="Download App NONO4D">Download App NONO4D</a>
                             </li>
                             <li>
-                                <a href="https://education.sjpublisher.org/" title="Brands List">Brands List</a>
+                                <a href="https://journals.iarn.or.id/" title="Brands List">Brands List</a>
                             </li>
                             <li class="m-0">
-                                <a href="https://education.sjpublisher.org/" title="Customer Reviews">Customer Reviews</a>
+                                <a href="https://journals.iarn.or.id/" title="Customer Reviews">Customer Reviews</a>
                             </li>
                             <li class="m-0">
-                                <a href="https://education.sjpublisher.org/" title="Return Policy">Return Policy</a>
+                                <a href="https://journals.iarn.or.id/" title="Return Policy">Return Policy</a>
                             </li>
                             <li class="m-0">
-                                <a target="_blank" href="https://education.sjpublisher.org/" title="Blog">Blog</a>
+                                <a target="_blank" href="https://journals.iarn.or.id/" title="Blog">Blog</a>
                             </li>
                             <li class="m-0">
-                                <a href="https://education.sjpublisher.org/" title="FAQ">FAQ</a>
+                                <a href="https://journals.iarn.or.id/" title="FAQ">FAQ</a>
                             </li>
                             <li class="m-0">
-                                <a href="https://education.sjpublisher.org/" title="About Ucredit">About Ucredit</a>
+                                <a href="https://journals.iarn.or.id/" title="About Ucredit">About Ucredit</a>
                             </li>
                             <li class="m-0">
-                                <a target="_blank" href="https://education.sjpublisher.org/" title="NONO4D Affiliates">NONO4D Affiliates</a>
+                                <a target="_blank" href="https://journals.iarn.or.id/" title="NONO4D Affiliates">NONO4D Affiliates</a>
                             </li>
                         </ul>
                     </div>
@@ -35692,7 +35692,7 @@ rating</span>
                             </p>
                         </div>
                         <hr>
-                        <a href="https://education.sjpublisher.org/" class="view_more_cities text-dark" title="View more cities">
+                        <a href="https://journals.iarn.or.id/" class="view_more_cities text-dark" title="View more cities">
                             View More Cities <i class="fa-solid fa-angle-right"></i>
                         </a>
                     </div>
@@ -35708,7 +35708,7 @@ rating</span>
                             <p>Download our App</p>
                             <div class="d-flex mt-3 flex-wrap gap-1">
                                 <a class="app-store d-none m-0" aria-label="App Store" href="https://ubys.us/apps/?type=apps&amp;utm_source=inhd-ubapp&amp;utm_medium=ubuy-website-abroad&amp;utm_term=bottom-icon&amp;utm_campaign=app-install-ubuy-abroad-web-BTM" target="_blank"></a>
-                                <a class="play-store d-none m-0" aria-label="Play Store" href="https://education.sjpublisher.org/&amp;referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM" target="_blank"></a>
+                                <a class="play-store d-none m-0" aria-label="Play Store" href="https://journals.iarn.or.id/&amp;referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM" target="_blank"></a>
                             </div>
                         </div>
                     </div>
@@ -35717,7 +35717,7 @@ rating</span>
             <div class="col-xl-9 col-lg-9 col-md-8 col-sm-12 mt-md-2 mb-md-0 mb-sm-2 d-flex justify-content-center justify-content-md-start flex-column">
                 <p class="footer-heading pci-dss-trust" style="font-size: 16px; color: #666; font-weight:bold;">TRUST ENSURED WITH</p>
                 <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                    <a href="https://education.sjpublisher.org/" title="PCI DSS" target="_blank">
+                    <a href="https://journals.iarn.or.id/" title="PCI DSS" target="_blank">
                         <img width="94" height="36" src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg" data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg" alt="PCI Security Standards Council" style="max-width:100%;" class="">
                     </a>
                     <div>
@@ -35737,16 +35737,16 @@ rating</span>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
                                 <li class="no-content">
-                                    <a href="https://education.sjpublisher.org/" title="Terms &amp; Conditions">Terms &amp;Conditions</a>
+                                    <a href="https://journals.iarn.or.id/" title="Terms &amp; Conditions">Terms &amp;Conditions</a>
                                 </li>
                                 <li>
-                                    <a href="https://education.sjpublisher.org/" title="Privacy Policy">Privacy Policy</a>
+                                    <a href="https://journals.iarn.or.id/" title="Privacy Policy">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="https://education.sjpublisher.org/" title="About Us">About Us</a>
+                                    <a href="https://journals.iarn.or.id/" title="About Us">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="https://education.sjpublisher.org/" title="Contact Us">Contact Us</a>
+                                    <a href="https://journals.iarn.or.id/" title="Contact Us">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
@@ -35754,19 +35754,19 @@ rating</span>
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://education.sjpublisher.org/" title="Facebook" target="_blank">
+                                    <a href="https://journals.iarn.or.id/" title="Facebook" target="_blank">
                                         <i class="fa-brands fa-facebook-f"></i>
                                     </a>
-                                    <a href="https://education.sjpublisher.org/" title="Instagram" target="_blank">
+                                    <a href="https://journals.iarn.or.id/" title="Instagram" target="_blank">
                                         <i class="fa-brands fa-instagram"></i>
                                     </a>
-                                    <a href="https://education.sjpublisher.org/" title="Youtube" target="_blank">
+                                    <a href="https://journals.iarn.or.id/" title="Youtube" target="_blank">
                                         <i class="fa-brands fa-youtube"></i>
                                     </a>
-                                    <a href="https://education.sjpublisher.org/" title="Twitter" target="_blank">
+                                    <a href="https://journals.iarn.or.id/" title="Twitter" target="_blank">
                                         <i class="fa-brands fa-x-twitter"></i>
                                     </a>
-                                    <a href="https://education.sjpublisher.org/" title="Pinterest" target="_blank">
+                                    <a href="https://journals.iarn.or.id/" title="Pinterest" target="_blank">
                                         <i class="fa-brands fa-pinterest"></i>
                                     </a>
                                 </div>

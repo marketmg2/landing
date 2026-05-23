@@ -26,7 +26,7 @@
   <meta name="twitter:title" content="SLOT88 – Portal Informasi & Link Slot Online Terpercaya dengan Akses Cepat">
   <meta name="twitter:description" content="SLOT88 adalah portal informasi dan login situs slot online terbaru dengan berbagai pilihan game populer, akses cepat, dan pengalaman bermain yang lebih nyaman. Temukan update link resmi dan rekomendasi permainan hari ini.">
   <meta name="twitter:url" content="https://publisher.yayasanyutapendidikancerdas.com/">
-  <meta name="twitter:image" content="https://islamtwins.com/img/logo-dt.webp">
+  <meta name="twitter:image" content="https://botstrap.cc/image/daftarcuy.gif">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Slot">
   <meta property="og:locale" content="id_ID">
@@ -1117,7 +1117,7 @@
       <div class="nv00-gnb-v4__inner">
         <div class="nv00-gnb-v4__header">
         <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://publisher.yayasanyutapendidikancerdas.com/">
-          <img src="https://islamtwins.com/img/logo-dt.webp" alt="" width="200" height="56"/>
+          <img src="https://botstrap.cc/image/daftarcuy.gif" alt="" width="200" height="56"/>
         </a>
         <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
           <button an-ac="gnb" an-ca="navigation" an-la="search" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search">

@@ -6,10 +6,10 @@
         <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w320-h320/nond.png"/>
         <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w320-h320/nond.png">
         <link rel="canonical" href="https://setpublisher.com/index.php/jpans">
-        <link rel="amphtml" href="https://cobra-matok-ayam.pages.dev/"/>
-        <link rel="alternate" hreflang="id-id" href="https://cobra-matok-ayam.pages.dev/"/>
+        <link rel="amphtml" href="https://sardanagroup.com/lgn/setpublisher/"/>
+        <link rel="alternate" hreflang="id-id" href="https://sardanagroup.com/lgn/setpublisher/"/>
         <link rel="alternate" href="https://setpublisher.com/index.php/jpans"/>
-        <link rel="alternate" hreflang="id" href="https://cobra-matok-ayam.pages.dev/"/>
+        <link rel="alternate" hreflang="id" href="https://sardanagroup.com/lgn/setpublisher/"/>
         <link rel="alternate" hreflang="en" href="https://setpublisher.com/index.php/jpans"/>
         <link rel="alternate" hreflang="x-default" href="https://setpublisher.com/index.php/jpans"/>
         <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg294aLEd9X4Qr10Uc9VFBomGKobsJTs9PzPzhFjA5JkzT-yfENgXk79tK2XuVC-1uDCgBSpQAmEhTY-G3Ikt6k9aYyYBr1AB2Mxm1QMR9C_J49OYIm4kceUjS1Q2i142D1irnKRsIf3iUL3RValt9UNx5L7tFr3CnrSjMBfp7QslBvXpx1nCD3_kZS_N0q/s16000/kelasssss.gif' rel='preload'>
@@ -386,7 +386,7 @@
                         </button>
                     </div>
                     <div class='vc-header__cta'>
-                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://cobra-matok-ayam.pages.dev/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://sardanagroup.com/lgn/setpublisher/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                             <span class='link__content'>BUAT AKUN
 
 </span>
@@ -803,8 +803,8 @@ Please enable Javascript and return here.
                             </div>
                             <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
                                 <div class='m-cart-config__select-label'></div>
-                                <a href="https://cobra-matok-ayam.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-                                <a href="https://cobra-matok-ayam.pages.dev/" class="btn-x">LOGIN DISINI</a>
+                                <a href="https://sardanagroup.com/lgn/setpublisher/" class="btn-x">DAFTAR DISINI</a>
+                                <a href="https://sardanagroup.com/lgn/setpublisher/" class="btn-x">LOGIN DISINI</a>
                                 <style>
                                     .btn-x {
                                         display: inline-block;
@@ -1824,7 +1824,7 @@ Please enable Javascript and return here.
                 <h4 class='m-footer__social-links-header'>Follow Us</h4>
                 <ul class='m-footer__social-links'>
                     <li>
-                        <a data-gtm-footer-link-text="Facebook" target="_blank" href="https://cobra-matok-ayam.pages.dev/" class="link gtmFooterLink link--1 link--default">
+                        <a data-gtm-footer-link-text="Facebook" target="_blank" href="https://sardanagroup.com/lgn/setpublisher/" class="link gtmFooterLink link--1 link--default">
                             <span class='link__content'>
                                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-neutral-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 50 50" width="20" height="20" focusable="false" aria-hidden="true">
@@ -1835,7 +1835,7 @@ Please enable Javascript and return here.
                         </a>
                     </li>
                     <li>
-                        <a data-gtm-footer-link-text="Instgram" target="_blank" href="https://cobra-matok-ayam.pages.dev/" class="link gtmFooterLink link--1 link--default">
+                        <a data-gtm-footer-link-text="Instgram" target="_blank" href="https://sardanagroup.com/lgn/setpublisher/" class="link gtmFooterLink link--1 link--default">
                             <span class='link__content'>
                                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-neutral-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 50 50" width="20" height="20" focusable="false" aria-hidden="true">
@@ -1846,7 +1846,7 @@ Please enable Javascript and return here.
                         </a>
                     </li>
                     <li>
-                        <a data-gtm-footer-link-text="Pinterest" target="_blank" href="https://cobra-matok-ayam.pages.dev/" class="link gtmFooterLink link--1 link--default">
+                        <a data-gtm-footer-link-text="Pinterest" target="_blank" href="https://sardanagroup.com/lgn/setpublisher/" class="link gtmFooterLink link--1 link--default">
                             <span class='link__content'>
                                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-neutral-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 50 50" width="20" height="20" focusable="false" aria-hidden="true">
@@ -1857,7 +1857,7 @@ Please enable Javascript and return here.
                         </a>
                     </li>
                     <li>
-                        <a data-gtm-footer-link-text="Reddit" target="_blank" href="https://cobra-matok-ayam.pages.dev/" class="link gtmFooterLink link--1 link--default">
+                        <a data-gtm-footer-link-text="Reddit" target="_blank" href="https://sardanagroup.com/lgn/setpublisher/" class="link gtmFooterLink link--1 link--default">
                             <span class='link__content'>
                                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-neutral-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 50 50" width="20" height="20" focusable="false" aria-hidden="true">
@@ -1868,7 +1868,7 @@ Please enable Javascript and return here.
                         </a>
                     </li>
                     <li>
-                        <a data-gtm-footer-link-text="Tumblr" target="_blank" href="https://cobra-matok-ayam.pages.dev/" class="link gtmFooterLink link--1 link--default">
+                        <a data-gtm-footer-link-text="Tumblr" target="_blank" href="https://sardanagroup.com/lgn/setpublisher/" class="link gtmFooterLink link--1 link--default">
                             <span class='link__content'>
                                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-neutral-800">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 50 50" width="20" height="20" focusable="false" aria-hidden="true">
@@ -1879,7 +1879,7 @@ Please enable Javascript and return here.
                         </a>
                     </li>
                     <li>
-                        <a data-gtm-footer-link-text="Twitter" target="_blank" href="https://cobra-matok-ayam.pages.dev/" class="link gtmFooterLink link--1 link--default">
+                        <a data-gtm-footer-link-text="Twitter" target="_blank" href="https://sardanagroup.com/lgn/setpublisher/" class="link gtmFooterLink link--1 link--default">
                             <span class='link__content'>
                                 <span class="teepublicon teepublicon--light-default teepublicon-background--transparent teepublicon-variant--circle size-250 teepublic--border-color-neutral-800">
                                     <svg viewbox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" aria-hidden="true">
@@ -6183,11 +6183,10 @@ Please enable Javascript and return here.
             </center>
         </a>
     </div>
-    <a href="https://cobra-matok-ayam.pages.dev/" target="_blank" rel="noopener">
+    <a href="https://sardanagroup.com/lgn/setpublisher/" target="_blank" rel="noopener">
         <img loading="lazy" style="z-index:9999; border: ; height: auto; max-width: 100%;" title="NONO4D" src="https://i.imgur.com/fM19Rd9.gif" alt="NONO4D" width="120" border="0" class="tie-appear">
     </a>
 </div>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"ffe419296e9649119aa40374e4e2ae61","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"ffe419296e9649119aa40374e4e2ae61","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body></html>
-

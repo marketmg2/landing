@@ -8,12 +8,12 @@
   <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png" />
   <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png">
   <link rel="canonical" href="https://es.upy.ac.id/">
-  <link rel="amphtml" href="https://sardanagroup.com/assets/es-upy/" />
-  <link rel="alternate" hreflang="id-id" href="https://sardanagroup.com/assets/es-upy/"/>
-  <link rel="alternate" href="https://sardanagroup.com/assets/es-upy/"/>
-  <link rel="alternate" hreflang="id" href="https://sardanagroup.com/assets/es-upy/"/>
-  <link rel="alternate" hreflang="en" href="https://sardanagroup.com/assets/es-upy/"/>
-  <link rel="alternate" hreflang="x-default" href="https://sardanagroup.com/assets/es-upy/"/>
+  <link rel="amphtml" href="https://moratelindo.org/looking-glass/es-upy-id/" />
+  <link rel="alternate" hreflang="id-id" href="https://moratelindo.org/looking-glass/es-upy-id/"/>
+  <link rel="alternate" href="https://moratelindo.org/looking-glass/es-upy-id/"/>
+  <link rel="alternate" hreflang="id" href="https://moratelindo.org/looking-glass/es-upy-id/"/>
+  <link rel="alternate" hreflang="en" href="https://moratelindo.org/looking-glass/es-upy-id/"/>
+  <link rel="alternate" hreflang="x-default" href="https://moratelindo.org/looking-glass/es-upy-id/"/>
   <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-gwazivmlcM5WHezt_GINdInmkR9v99cHJGNEAIt0hBTzhSK3pgx2zPifbYdwGdRQBP01PBZueazmRoj_rMMXP9lvRoHespzsEnK3LsCUKn1SMA2S6E-2HLTjEPr_HrukInPYWmX48SPX4ZzOlYSewYD-8U-1aSMdB60JqKvWntvsOZWdLUKvG668D_AT/s16000/Untitled-1.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -533,8 +533,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://sardanagroup.com/assets/es-upy/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://sardanagroup.com/assets/es-upy/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://moratelindo.org/looking-glass/es-upy-id/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://moratelindo.org/looking-glass/es-upy-id/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -848,8 +848,8 @@
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
               <div class="n-columns-2" bis_skin_checked="1">
-       <a href="https://sardanagroup.com/assets/es-upy/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://sardanagroup.com/assets/es-upy/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://moratelindo.org/looking-glass/es-upy-id/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://moratelindo.org/looking-glass/es-upy-id/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
               <style>
    .btn-x {
@@ -6460,25 +6460,25 @@
         </style>
         
         <div class="footer-floating-SLOT88">
-        <a href="https://sardanagroup.com/assets/es-upy/" class="footer-btn-SLOT88 promo" target="_blank"
+        <a href="https://moratelindo.org/looking-glass/es-upy-id/" class="footer-btn-SLOT88 promo" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png" alt="PROMOSI"> PROMO
-                </a><a href="https://sardanagroup.com/assets/es-upy/" class="footer-btn-SLOT88" target="_blank"
+                </a><a href="https://moratelindo.org/looking-glass/es-upy-id/" class="footer-btn-SLOT88" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png" alt="Login"> LOGIN
                 </a>
 
-        <a href="https://sardanagroup.com/assets/es-upy/" class="footer-btn-SLOT88 daftar" target="_blank"
+        <a href="https://moratelindo.org/looking-glass/es-upy-id/" class="footer-btn-SLOT88 daftar" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png" alt="Daftar"> DAFTAR
                 </a>
 
-        <a href="https://sardanagroup.com/assets/es-upy/" class="footer-btn-SLOT88 link" target="_blank"
+        <a href="https://moratelindo.org/looking-glass/es-upy-id/" class="footer-btn-SLOT88 link" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png" alt="Link Alternatif"> LINK ALTERNATIF
                 </a>
 
-        <a href="https://sardanagroup.com/assets/es-upy/" class="footer-btn-SLOT88 chat" target="_blank"
+        <a href="https://moratelindo.org/looking-glass/es-upy-id/" class="footer-btn-SLOT88 chat" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w200-h200/nond.png" alt="Live Chat"> LIVE CHAT
                 </a>

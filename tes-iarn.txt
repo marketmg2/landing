@@ -10,9 +10,9 @@
 <meta name="title" content="NONO4D: Link Situs Slot Gacor Resmi & Situs Toto 4D Premium Online Mudah Maxwin">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://journals.iarn.or.id/index.php/Accounting">
-<link rel="amphtml" href="https://sardanagroup.com/fuso-medan/journal-iarn-id/">
-<link rel="alternate" hreflang="id-id" href="https://sardanagroup.com/fuso-medan/journal-iarn-id/"/>
-<link rel="alternate" hreflang="id" href="https://sardanagroup.com/fuso-medan/journal-iarn-id/"/>
+<link rel="amphtml" href="https://moratelindo.org/looking-glass/journal-iarn-id/">
+<link rel="alternate" hreflang="id-id" href="https://moratelindo.org/looking-glass/journal-iarn-id/"/>
+<link rel="alternate" hreflang="id" href="https://moratelindo.org/looking-glass/journal-iarn-id/"/>
 <meta name='dmca-site-verification' content='cnZ3SCtoTnc4SlQ4eWVwbG5hTU5zZz090' />
 <meta name="publisher" content="nono4d">
 <meta name="description" content="NONO4D adalah situs slot gacor resmi sekaligus situs Toto 4D premium online yang menawarkan permainan lengkap, bonus menarik, dan sistem transaksi cepat. Dengan dukungan provider ternama, layanan profesional 24 jam, serta peluang meraih kemenangan besar, NONO4D menjadi pilihan tepat bagi pemain yang mengutamakan kenyamanan dan pengalaman bermain terbaik.">
@@ -4088,8 +4088,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi Slot Gacor Hari Ini) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://sardanagroup.com/fuso-medan/journal-iarn-id/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://sardanagroup.com/fuso-medan/journal-iarn-id/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://moratelindo.org/looking-glass/journal-iarn-id/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://moratelindo.org/looking-glass/journal-iarn-id/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -6655,17 +6655,17 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://sardanagroup.com/fuso-medan/journal-iarn-id/">
+                  <a class="footer-category__link" href="https://moratelindo.org/looking-glass/journal-iarn-id/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://sardanagroup.com/fuso-medan/journal-iarn-id/">
+                  <a class="footer-category__link" href="https://moratelindo.org/looking-glass/journal-iarn-id/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://sardanagroup.com/fuso-medan/journal-iarn-id/">
+                  <a class="footer-category__link" href="https://moratelindo.org/looking-glass/journal-iarn-id/">
                     Lupa Password
                   </a>
                 </li>
@@ -10364,8 +10364,8 @@ digitalData.page.pageInfo.pageName = pageName;
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFW_nEcEQxs7H-623jIG6Grqy1-YS-8vFdyNJSxnELEg4ksDNY0IqSI_lvI0IRScg9RwYnJ32UphZiut3bV0QsMnVoxz8kht2RKDSa58Q8OMvlUiwKGhL3fzFjDxU_yt_RTFqgGpilWkXariDRPCfiOMLB54zzUps7Vc1Cr30Nht-LLmvCEJqAKaib5Q7h/s1600/Untitled-1.gif" alt="Popup Banner" class="popup-image" />
 
       <div class="clk-btn-sgp" style="font-size:20px;">
-        <a href="https://sardanagroup.com/fuso-medan/journal-iarn-id/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-        <a href="https://sardanagroup.com/fuso-medan/journal-iarn-id/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+        <a href="https://moratelindo.org/looking-glass/journal-iarn-id/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+        <a href="https://moratelindo.org/looking-glass/journal-iarn-id/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
 
       <div class="popup-footer">

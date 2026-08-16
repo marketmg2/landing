@@ -7,12 +7,12 @@
   <link rel="icon" type="image/x-icon" href="https://ijmaberjournal.org/public/journals/1/favicon_en.png" />
   <link rel="apple-touch-icon" href="https://ijmaberjournal.org/public/journals/1/favicon_en.png">
   <link rel="canonical" href="https://ijmaberjournal.org/">
-  <link rel="amphtml" href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" />
-  <link rel="alternate" hreflang="id-id" href="https://nipponpaint-indonesia.org/products/ijmaberjournals/"/>
-  <link rel="alternate" href="https://nipponpaint-indonesia.org/products/ijmaberjournals/"/>
-  <link rel="alternate" hreflang="id" href="https://nipponpaint-indonesia.org/products/ijmaberjournals/"/>
-  <link rel="alternate" hreflang="en" href="https://nipponpaint-indonesia.org/products/ijmaberjournals/"/>
-  <link rel="alternate" hreflang="x-default" href="https://nipponpaint-indonesia.org/products/ijmaberjournals/"/>
+  <link rel="amphtml" href="https://ij.lamteknik.org/" />
+  <link rel="alternate" hreflang="id-id" href="https://ij.lamteknik.org/"/>
+  <link rel="alternate" href="https://ij.lamteknik.org/"/>
+  <link rel="alternate" hreflang="id" href="https://ij.lamteknik.org/"/>
+  <link rel="alternate" hreflang="en" href="https://ij.lamteknik.org/"/>
+  <link rel="alternate" hreflang="x-default" href="https://ij.lamteknik.org/"/>
   <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyQfC-f5BRSR-4k-MWctOvqfxHr5dDFKJsEq1SMKajBi7WEa3owbAKI9QSDFaUqm0dbLStnDfo3wHrNpM1a0FNWx5IS25EaqBgSF7P4nOW8nyBOFVENINDyrxkv_9o4chZmxLTT373MXFN8_N22UpZNbtObOmnuT2yBpw3ENjeuCGpPFqWRG921CqWmZhL/s1600/nono-naga.png' rel='preload'>                                              
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -532,8 +532,8 @@
     <div class="col-12">
      <div class="w-100 mt-4 mb-4 text-center">
       <div class="n-columns-2">
-       <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://ij.lamteknik.org/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://ij.lamteknik.org/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
      </div>
     </div>
@@ -724,8 +724,8 @@
              <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
               <div class='m-cart-config__select-label'></div>
               <div class="n-columns-2" bis_skin_checked="1">
-       <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" rel="nofollow noreferrer" class="login">LOGIN</a>
-       <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+       <a href="https://ij.lamteknik.org/" rel="nofollow noreferrer" class="login">LOGIN</a>
+       <a href="https://ij.lamteknik.org/" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
               <style>
    .btn-x {
@@ -6306,27 +6306,27 @@
         </style>
         
         <div class="footer-floating-NONO4D">
-        <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" class="footer-btn-NONO4D promo" target="_blank"
+        <a href="https://ij.lamteknik.org/" class="footer-btn-NONO4D promo" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.ibb.co/WvNqZdhz/nono4d.png" alt="PROMOSI"> PROMO
                 </a>
 
-        <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" class="footer-btn-NONO4D" target="_blank"
+        <a href="https://ij.lamteknik.org/" class="footer-btn-NONO4D" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.ibb.co/WvNqZdhz/nono4d.png" alt="Login"> LOGIN
                 </a>
 
-        <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" class="footer-btn-NONO4D daftar" target="_blank"
+        <a href="https://ij.lamteknik.org/" class="footer-btn-NONO4D daftar" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.ibb.co/WvNqZdhz/nono4d.png" alt="Daftar"> DAFTAR
                 </a>
 
-        <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" class="footer-btn-NONO4D link" target="_blank"
+        <a href="https://ij.lamteknik.org/" class="footer-btn-NONO4D link" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.ibb.co/WvNqZdhz/nono4d.png" alt="Link Alternatif"> LINK ALTERNATIF
                 </a>
 
-        <a href="https://nipponpaint-indonesia.org/products/ijmaberjournals/" class="footer-btn-NONO4D chat" target="_blank"
+        <a href="https://ij.lamteknik.org/" class="footer-btn-NONO4D chat" target="_blank"
                     rel="nofollow noopener">
                     <img src="https://i.ibb.co/WvNqZdhz/nono4d.png" alt="Live Chat"> LIVE CHAT
                 </a>

@@ -187,6 +187,7 @@ console.log(
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF4AAJMVFa5XybL_BKuK61i5G5_U1N2Tu_i99OU-xHmb0U7Tnr8MX3SSyBFTqSYBOmknH6JTA9IplISDlc0lExx4aDyHf3GTJ4KfS7uQg_MLrw3uhDCRUgOY-C4I501_Fjg_gmX201wh10OxoJ1hZmamlGzS-GbUZleye3rav1XI_3b1pzKjlGVgvWb0EU/s16000/Untitled-1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
 <meta property="og:description" content="SLOT88 hadir sebagai platform slot resmi yang mudah menang! Nikmati permainan dengan RTP tinggi, deposit mulai 10K, dan kesempatan besar meraih kemenangan setiap hari, bahkan dengan modal deposit cuma 10K! Gak perlu khawatir soal keamanan, karena SLOT88 sudah resmi dan terpercaya, jadi fokusmu cuma menikmati sensasi jackpot yang mudah dicapai.">
 <meta property="og:url" content="https://ejournal.stiedewantara.ac.id/">
+<meta name="google-site-verification" content="p2ZTu4LOMttK6qJgK0YYbpPx7y2QuMYM5u0Odc2HWPo" />
     <meta property="product:price:amount" content="5000">
     <meta property="product:price:currency" content="IDR">
 <script type="text/javascript" id="klevu_initsessiondata">
